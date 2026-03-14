@@ -8,6 +8,11 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=aryan252006-creator&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+
+
 ## 🌐 Socials:
 
 <p align="center">
@@ -119,6 +124,8 @@
 </p>
 
 ---
+
+
 
 # ✍️ Random Dev Quote
 
