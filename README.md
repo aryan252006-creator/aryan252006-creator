@@ -116,6 +116,64 @@ Hi, I'm **Aryan Agarwal**, a passionate **Full Stack Developer** who enjoys buil
 
 
 ---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🦅 Aletheia AI
+
+**Intelligent Market Intelligence Platform**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+
+AI-powered financial intelligence platform that combines **real-time market data, deep learning, and causal reasoning** to generate actionable investment insights.
+
+• Real-time stock intelligence
+• Deep learning pipeline using FinBERT
+• Market regime detection
+• Portfolio management with live P&L tracking
+
+<br>
+
+<a href="https://github.com/heisenbug-collective/aletheia-ai">
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🇮🇳 Polinance AI
+
+**National Policy Optimization Engine**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+
+AI-driven governance platform that optimizes **policy decisions and welfare allocation** using causal machine learning and data valuation algorithms.
+
+• Data valuation using Shapley algorithms
+• Counterfactual causal ML models
+• RAG assistant powered by Gemini AI
+• Automated policy report generation
+
+<br>
+
+<a href="https://github.com/sahildora/PolinanceAI">
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+</table>
+
 
 # 📊 GitHub Stats:
 
