@@ -123,7 +123,7 @@ Hi, I'm **Aryan Agarwal**, a passionate **Full Stack Developer** who enjoys buil
 
 <td width="50%" align="center">
 
-### 🦅 Aletheia AI
+###  Aletheia AI
 
 **Intelligent Market Intelligence Platform**
 
