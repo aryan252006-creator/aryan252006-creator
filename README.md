@@ -123,20 +123,24 @@ Hi, I'm **Aryan Agarwal**, a passionate **Full Stack Developer** who enjoys buil
 
 <td width="50%" align="center">
 
-###  Aletheia AI
+### 🦅 Aletheia AI
 
-**Intelligent Market Intelligence Platform**
+**AI-Powered Market Intelligence Platform**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react)
+![Node](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge\&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-ML_API-009688?style=for-the-badge\&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-AI_Model-EE4C2C?style=for-the-badge\&logo=pytorch)
 
-AI-powered financial intelligence platform that combines **real-time market data, deep learning, and causal reasoning** to generate actionable investment insights.
+A **full-stack financial intelligence platform** combining real-time market data with deep learning models to help investors understand **why markets move**, not just how.
 
-• Real-time stock intelligence
-• Deep learning pipeline using FinBERT
-• Market regime detection
-• Portfolio management with live P&L tracking
+**Core Capabilities**
+
+• 📊 Interactive web dashboard for market analytics
+• 🧠 Deep learning pipeline for financial prediction
+• 📰 AI narrative summaries using **FinBERT NLP**
+• 💼 Portfolio management with real-time P&L
+• 📈 Market regime detection (growth / volatility / crisis)
 
 <br>
 
@@ -150,18 +154,22 @@ AI-powered financial intelligence platform that combines **real-time market data
 
 ### 🇮🇳 Polinance AI
 
-**National Policy Optimization Engine**
+**AI-Driven Policy Optimization Platform**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react)
+![Node](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge\&logo=node.js)
+![PyTorch](https://img.shields.io/badge/PyTorch-Causal_ML-EE4C2C?style=for-the-badge\&logo=pytorch)
+![Gemini](https://img.shields.io/badge/Gemini-AI_Assistant-4285F4?style=for-the-badge\&logo=google)
 
-AI-driven governance platform that optimizes **policy decisions and welfare allocation** using causal machine learning and data valuation algorithms.
+A **GovTech decision-intelligence platform** that helps policymakers allocate resources efficiently using causal machine learning and AI-powered policy analysis.
 
-• Data valuation using Shapley algorithms
-• Counterfactual causal ML models
-• RAG assistant powered by Gemini AI
-• Automated policy report generation
+**Core Capabilities**
+
+• 📊 Web dashboard for policy data analysis
+• 🧠 Data valuation engine using **Shapley algorithms**
+• ⚖️ Counterfactual ML models for welfare allocation
+• 🤖 RAG policy assistant powered by **Google Gemini**
+• 📑 Automated report generation via Google Slides API
 
 <br>
 
@@ -173,7 +181,6 @@ AI-driven governance platform that optimizes **policy decisions and welfare allo
 
 </tr>
 </table>
-
 
 # 📊 GitHub Stats:
 
