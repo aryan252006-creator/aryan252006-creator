@@ -7,6 +7,18 @@
 </p>
 
 ---
+## 👨‍💻 About Me
+
+Hi, I'm **Aryan Agarwal**, a passionate **Full Stack Developer** who enjoys building scalable and interactive web applications.
+
+* 🚀 I build modern web apps using **React, Next.js, Node.js, and TailwindCSS**
+* 🤖 Currently exploring **AI integration in web applications**
+* ⚡ Interested in **real-time systems, WebSockets, and scalable backend architectures**
+* 🧠 Learning more about **Machine Learning and AI APIs**
+* 🎯 Goal: Build impactful products and continuously improve as a developer
+
+💡 *I believe in writing clean, efficient code and constantly learning new technologies.*
+
 
 <img src="https://komarev.com/ghpvc/?username=aryan252006-creator&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
